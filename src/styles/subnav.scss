@@ -1,0 +1,48 @@
+.subnav {
+  height: 30px;
+  padding: 10px;
+  background-color: #dbe2ef;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .buttons {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    button {
+      border: none;
+      outline: none;
+      padding: 2px;
+      height: 30px;
+      font-size: 14px;
+    //   background-color: #3F72AF;
+    // background-color: transparent;
+    // border-bottom: 1px solid #333;
+    // border-left: 1px solid #333;
+    background-color: #c6d1e7;
+    cursor: pointer;
+
+
+    }
+  }
+  .filter {
+    select {
+      border: none;
+      outline: none;
+      padding: 2px;
+      height: 30px;
+      font-size: 14px;
+    background-color: #c6d1e7;
+    cursor: pointer;
+
+    // border-bottom: 1px solid #333;
+    // border-left: 1px solid #333;
+
+
+
+    }
+  }
+}
