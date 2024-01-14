@@ -1,1 +1,1 @@
-only frontend react shop
+only frontend react shop will be trying to make it full stack 
